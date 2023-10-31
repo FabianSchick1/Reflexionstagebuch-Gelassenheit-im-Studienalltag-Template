@@ -8,7 +8,7 @@ Kann Texmaker als Editor empfehlen.
 
 Anpassungen für das Reflexionstagebuch wurden vorgenommen.
 
-Einfach losschreiben in Sektionen/Hauptteil.text und Informationen in Arbeit.tex customizen.
+Einfach in Sektionen/Hauptteil.text losschreiben und Informationen in Arbeit.tex customizen.
 
 Keine Gewährleistung auf Richtigkeit und Vollständigkeit.
 
