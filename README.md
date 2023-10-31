@@ -8,7 +8,7 @@ Kann Texmaker als Editor empfehlen.
 
 Anpassungen für das Reflexionstagebuch wurden vorgenommen.
 
-Einfach in Sektionen/Hauptteil.tex unter der passenden Überschrift losschreiben und Informationen in Arbeit.tex customizen.
+Einfach in Sektionen/Hauptteil.tex unter der passenden Überschrift losschreiben und Informationen in Arbeit.tex für das Deckblatt customizen.
 
 Keine Gewährleistung auf Richtigkeit und Vollständigkeit.
 
