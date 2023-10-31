@@ -1,4 +1,4 @@
-# Reflexionstagebuch-Gelassenheit-im-Studienalltag-WiSe-2023-2024
+# Template für das Reflexionstagebuch im Studium-Generale Fach "Gelassenheit im Studienalltag"
 
 Latex-Template von https://github.com/btoschek/hsc-template. Danke an @btoschek, @HannesLueer & @leonhess!
 
