@@ -1,0 +1,20 @@
+\documentclass[a4paper,11pt]{extarticle}
+
+% Customize them for you needs
+\def\Fakultaet{Fakultät Elektrotechnik und Informatik}
+\def\Studiengang{Informatik (B.Sc)}
+\def\Autorname{Fabian Schick}
+\def\Matrikelnummer{42694269}
+
+\input{framework/Setup}
+
+\def\Abgabe{\today}
+
+\startHSCdocument[Bachelorarbeit]
+
+  \pagenumbering{arabic}  
+  
+  % All content has to be written into here. In Sektionen/Hauptteil.tex
+  \include{Sektionen/Hauptteil}
+  
+\finishHSCdocument
