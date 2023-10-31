@@ -15,6 +15,8 @@ Keine Gewährleistung auf Richtigkeit und Vollständigkeit.
 Aktuell sollten alle Formalien außer aktuell bekannte Fehler eingehalten sein:
 - Fußzeile ist nicht genau 1.25cm von dem Blattrand entfernt.
 
+Bitte melden falls sonst noch etwas an den Formalien nicht passt!
+
 # Document Template HS Coburg
 Further information about how to work with it from https://github.com/btoschek/hsc-template
 
