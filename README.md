@@ -1,6 +1,6 @@
 # Reflexionstagebuch-Gelassenheit-im-Studienalltag-WiSe-2023-2024
 
-Latex-Template von https://github.com/btoschek/hsc-template. Danke! @btoschek, @HannesLueer & @leonhess
+Latex-Template von https://github.com/btoschek/hsc-template. Danke an @btoschek, @HannesLueer & @leonhess!
 
 Für die Leute die sich schon etwas mit LaTeX auskennen. 
 
