@@ -10,7 +10,7 @@ Anpassungen für das Reflexionstagebuch wurden vorgenommen.
 
 Einfach in Sektionen/Hauptteil.tex unter der passenden Überschrift losschreiben und Informationen in Arbeit.tex für das Deckblatt customizen.
 
-Keine Gewährleistung auf Richtigkeit und Vollständigkeit.
+Keine Gewährleistung auf Richtigkeit und Vollständigkeit in irgendeiner Weise!
 
 Aktuell sollten alle Formalien außer aktuell bekannte Fehler eingehalten sein:
 - Fußzeile ist nicht genau 1.25cm von dem Blattrand entfernt.
